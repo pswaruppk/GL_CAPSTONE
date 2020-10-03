@@ -56,4 +56,4 @@ The objective of the project is,
  Read different research papers of given domain to obtain the knowledge of advanced models for the given problem.
 
 
-## THIS IS DEMO CHANGE
+RSNA_pneumonia_detection_final_report.ipynb is the master notebook. One can go to each notebook from here.
